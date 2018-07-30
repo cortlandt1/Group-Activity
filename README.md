@@ -1,2 +1,2 @@
 # Group-Activity
-bruh
+Create teh layout of the instagram website
