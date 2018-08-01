@@ -1,0 +1,89 @@
+
+
+ body {
+    background-color: #ffffff;
+ }
+
+.container {
+    background-color: #ffffff;
+}
+
+.topNav {
+
+    /* Create a gradient background */
+    background-image: -webkit-linear-gradient( left,#bd3381, #f53f76);
+    background-image: -moz-linear-gradient( left, #bd3381, #f53f76);
+    background-image: -ms-linear-gradient( left, #bd3381, #f53f76);
+    background-image: -o-linear-gradient( left, #bd3381, #f53f76);
+    background-image: linear-gradient( left, #bd3381, #f53f76);
+
+    padding: 0px 0px 0px 7px;
+}
+
+.topNav h5 {
+    font-size: 16px;
+    margin-bottom:0px;
+    padding-top: 5px;
+}
+
+.topNav h6 {
+    font-size: 12px;
+    margin-bottom:5px;
+}
+    
+.topColor {
+    color: white;
+}
+
+.getBtn {
+    background-color:#f53f76;
+    border: 1px solid whitesmoke;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 7px 3px 7px 20px;
+    padding: 3px 9px 3px 9px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Contens in teh middle ............................ */
+.phoneImage, .phoneLogin {
+    height:657px; 
+    width:390px; 
+    border: 1px solid gray;
+    margin-top: 50px;
+    position: relative;
+}
+
+.appStore {
+    height:150px; 
+    width:390px; 
+    border: 1px solid gray;
+    margin-top: 10px;
+}
+
+.imgInstagram {
+    position: Absolute;
+    top: 50px;
+    left: 0px;
+}
+
+.footer a {
+    padding-left: 10px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: darkblue;
+    font-weight: 400;
+}
+
+.copyRight {
+    color:gray;
+    font-size: 12px;
+    min-width: 400px;
+}
+
+
+  
